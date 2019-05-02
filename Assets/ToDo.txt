@@ -1,0 +1,28 @@
+Make 2 cameras: one for 1st person view and the other for 3rd person. The 3rd person one is already done,
+but for the 1st person, I'll need to adjust the camera rotation according to the player.
+
+Improve state of the game after depleting all health. Now the car keeps moving after death.
+Maybe make him really stop or just make a death screen.
+
+Create the rest of the circuit and implement weapons.
+
+Implement a car change system, maybe with occasional pit stops. Don't forget to put player tag
+on whichever vehicle the player is running on, and REMEMBER to put enemy tag on enemy vehicles.
+By the way, add enemy vehicle generation.
+
+Do damage based on rigidbody velocity variation. If it varies too much, probably the player hit
+something or jumped too high, which means it should take damage.
+
+Add friction to different terrain, like grass and road.
+
+Make the walls repeat the texture or materials, idk.
+
+Add speed meter and maybe some related things.
+
+Add ways to get more life, to make the game more lasting.
+
+Make a score system.
+
+Add menus to enter, to quit the game etc.
+
+Work on the map.
